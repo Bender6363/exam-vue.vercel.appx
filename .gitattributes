@@ -1,5 +1,5 @@
 * linguist-vendored
-*.html linguist-обнаруживается=false
-*.css linguist-обнаруживается=false
-*.js linguist-обнаруживается=false
+*.html linguist-обнаруживается = true
+*.css linguist-обнаруживается = true
+*.js linguist-обнаруживается = true
 *.vue linguist-обнаруживается=false
